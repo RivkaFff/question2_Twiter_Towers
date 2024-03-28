@@ -1,0 +1,14 @@
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\bin\Debug\net8.0\question2-Twiter-Towers.exe
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\bin\Debug\net8.0\question2-Twiter-Towers.deps.json
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\bin\Debug\net8.0\question2-Twiter-Towers.runtimeconfig.json
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\bin\Debug\net8.0\question2-Twiter-Towers.dll
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\bin\Debug\net8.0\question2-Twiter-Towers.pdb
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.AssemblyInfoInputs.cache
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.AssemblyInfo.cs
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.csproj.CoreCompileInputs.cache
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.dll
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\refint\question2-Twiter-Towers.dll
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.pdb
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\question2-Twiter-Towers.genruntimeconfig.cache
+C:\Users\אלישבע\Documents\של רבקה\question2-Twiter-Towers\question2-Twiter-Towers\obj\Debug\net8.0\ref\question2-Twiter-Towers.dll
